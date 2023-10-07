@@ -1,0 +1,14 @@
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\bin\Debug\QL_Phan_Cong_Gaing_Day.exe
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\bin\Debug\QL_Phan_Cong_Gaing_Day.pdb
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.csproj.AssemblyReference.cache
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.Properties.Resources.resources
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.csproj.GenerateResource.cache
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.csproj.CoreCompileInputs.cache
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.exe
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.pdb
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.MainScreen.resources
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.csproj.CopyComplete
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.Detail_Screen.resources
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.splash_screen.resources
+D:\C#_programming\quan_ly_phan_cong_giang_vien\QL_Phan_Cong_Gaing_Day\obj\Debug\QL_Phan_Cong_Gaing_Day.login_screen.resources
